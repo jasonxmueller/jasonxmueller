@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jasonxmueller
-- 👀 I’m interested in all things web3.
-- 🌱 I’m currently learning web3 fundamentals :)
+- 👀 I’m interested in all things data
 
 <!---
 jasonxmueller/jasonxmueller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

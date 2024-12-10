@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jasonxmueller
-- 👀 I’m interested in all things data
+- 👋 Hi, I’m Jason
 
 <!---
 jasonxmueller/jasonxmueller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
